@@ -1,4 +1,4 @@
-**# 👩‍💻 Nicole Bianca Cajueiro Eugênio
+**# 👩‍💻 Nicole Bianca Cajueiro Eugênio**
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas  
 📚 Cursando Técnico em Desenvolvimento de Sistemas na ETEC  
@@ -19,16 +19,16 @@ Busco oportunidades para atuar como **desenvolvedora júnior**, aplicando meus c
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- 👩‍💻 **Linguagens:** Python, SQL, HTML, CSS, JavaScript (básico)
-- 🗃️ **Banco de Dados:** SQLite, MySQL (básico)
-- ⚙️ **Ferramentas:** Git, GitHub, VSCode, Figma, Arduino
+- 👩‍💻 **Linguagens:** Python, SQL, HTML, CSS, JavaScript, PHP, React
+- 🗃️ **Banco de Dados:** MySQL (básico)
+- ⚙️ **Ferramentas:** Git, GitHub, VSCode, Figma
 - 📊 **Conceitos:** Automação de processos, Documentação técnica, Qualidade
 
 ---
 
 ## 🔍 O que estou estudando agora
 
-- Desenvolvimento Web (HTML + CSS + JS)
+- Desenvolvimento Web (PHP + BOOTSTRAP + HTML + CSS + JS)
 - Projetos com Arduino e Sistemas Embarcados
 - Versionamento com Git e GitHub
 - Banco de Dados Relacional (SQL)
@@ -39,16 +39,14 @@ Busco oportunidades para atuar como **desenvolvedora júnior**, aplicando meus c
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| `sistema-embarcado-arduino` | Projeto final da ETEC usando sensores com Arduino | Arduino, C, Tinkercad |
-| `automacao-python-pn` | Script para organizar arquivos de Part Numbers (projeto interno) | Python |
-| `cadastro-simples-sqlite` | Sistema de cadastro local com SQLite | Python, SQLite |
+
 
 ---
 
 ## 📫 Contato
 
-- [LinkedIn](https://linkedin.com/in/seu-usuario)
-- Email: seuemail@email.com
+- [LinkedIn](http://www.linkedin.com/in/nicole-cajueiro-eugenio)
+- Email: nicolebiancacajueiro123@gmail.com
 
 ---
 
